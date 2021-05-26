@@ -1,0 +1,11 @@
+.grid {
+    display: grid;
+    grid-template-rows: '' 200%;
+}
+
+iframe {
+    width: 100%;
+	 min-width: 480px;
+	 min-height: 700px;
+    height: 750px;
+}
